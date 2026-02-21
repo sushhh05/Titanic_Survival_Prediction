@@ -72,7 +72,7 @@ python -m streamlit run app.py
 
 App will open at:
 
-http://localhost:8501
+https://sushhh-titanicsurvivalprediction.streamlit.app
 
 💾 Model Saving
 
